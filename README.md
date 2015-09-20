@@ -1,3 +1,6 @@
+This project is different from the upstream one, as it utilizes the angular2/http package to request the http_request.txt file.
+Otherwise it's completely equivalent.
+
 # ng2-play.ts
 
 A minimal Angular2 playground using TypeScript and SystemJS
